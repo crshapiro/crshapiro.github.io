@@ -64,5 +64,5 @@ Fluid Mechanics I, Johns Hopkins University, Fall 2014
 1. S. Puttagunta & **C. Shapiro**. (2012). *[In-depth look at ground source heat pumps and other electric loads in two greenmax homes](https://www1.eere.energy.gov/buildings/publications/pdfs/building_america/ground_sourcehp_greenmax.pdf).* DOE/GO-102012-3532. Golden, CO: National Renewable Energy Laboratory.
 1. **C. Shapiro**, S. Puttagunta, & D. Owens. (2012). *[Measure guideline: Heat pump water heaters in new and existing homes](https://www.nrel.gov/docs/fy12osti/53184.pdf).* DOE/GO-102012-3456. Golden, CO: National Renewable Energy Laboratory.
 
-**Trade Journal Articles**
+**Trade Journals**
 1. R. Aldrich & **C. Shapiro**. (2012). "[What's new in water heating?](http://homeenergy.org/show/article/nav/hotwater/page/2/id/1808)" *Home Energy*, September/October, 46-50.
