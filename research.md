@@ -12,4 +12,4 @@ Growing renewable energy production is putting increased stress on traditional e
 We use a model-based receding horizon controller (also known as model predictive control) to track a secondary frequency regulation signal. Large eddy simulations (LES) are used as a computational test bed to test the performance of the control algorithm. Closed-loop feedback through ensemble Kalman filtering is used to correct modeling errors. Example results for a controlled 84-turbine wind farm are shown below.
 
 ![Control results](/img/enkf-rhc.png)
-*Total wind farm power output showing reference signal (<font color="red">&mdash;&mdash;</font>), controlled wind farm (&mdash;&mdash;), and uncontrolled wind farm (<font color="gray">&mdash;&mdash;</font>).</p></center>*
+*Total wind farm power output showing reference signal (<font color="red">&mdash;&mdash;</font>), controlled wind farm (&mdash;&mdash;), and uncontrolled wind farm (<font color="gray">&mdash;&mdash;</font>).*
