@@ -21,7 +21,7 @@
       <div class="footer-col footer-col-2">
         <ul class="contact-list">
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-          <li><a href="mailto:{{ site.url }}">{{ site.url }}</a></li>
+          <li><a href="{{ site.url }}">{{ site.url }}</a></li>
           {% if site.github_username %}
           <li>
             {% include icon-github.html username=site.github_username %}
@@ -41,7 +41,14 @@
           {% endif %}
         </ul>
       </div>
-    </div>
+
+      <div class="footer-col footer-col-3">
+        <img src="/img/by-sa.png" alt="by-sa" style="width:100px;">
+        <ul class="contact-list">
+          <li>Content on this site is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA 4.0</a>. Theme based on <a href="https://github.com/jekyll/minima">minima</a>.</li>
+        </ul>
+        </div>
+      </div>
 
   </div>
 

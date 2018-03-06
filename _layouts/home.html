@@ -1,28 +1,16 @@
-<!DOCTYPE html>
-<html>
+---
+layout: default
+---
+<article class="post">
 
-  {% include head.html %}
-
-  <body>
-
-    {% include header.html %}
-
-    <div class="page-content">
-      <div class="wrapper">
-        <div class="home-col-wrapper">
-          <div class="home-col home-col-1">
-            {{ content }}
-          </div>
-
-          <div class="home-col home-col-2">
-            <img src="img/headshot.jpg" style="width:392px;height:436px;">
-          </div>
-        </div>
-      </div>
+  <div class="home-col-wrapper">
+    <div class="home-col home-col-1">
+      {{ content }}
     </div>
 
-    {% include footer.html %}
+    <div class="home-col home-col-2">
+      <img src="img/headshot.jpg" style="width:392px;height:436px;">
+    </div>
+  </div>
 
-  </body>
-
-</html>
+</article>
