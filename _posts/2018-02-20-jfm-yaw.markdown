@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Modelling yawed wind turbine wakes published in JFM Rapids."
+date:   2018-02-20 12:00:00 -0500
+categories: papers
+---
+Our paper "[Modelling yawed wind turbine wakes: A lifting line approach](https://doi.org/10.1017/jfm.2018.75)" was published in the Journal of Fluid Mechanics Rapids. By *Carl R. Shapiro, Dennice F. Gayme, and Charles Meneveau*
+
+**Abstract**
+Yawing wind turbines has emerged as an appealing method for wake deflection. However, the associated flow properties, including the magnitude of the transverse velocity associated with yawed turbines, are not fully understood. In this paper, we view a yawed turbine as a lifting surface with an elliptic distribution of transverse lift. Prandtl’s lifting line theory provides predictions for the transverse velocity and magnitude of the shed counter-rotating vortex pair known to form downstream of the yawed turbine. The streamwise velocity deficit behind the turbine can then be obtained using classical momentum theory. This new model for the near-disk inviscid region of the flow is compared to numerical simulations and found to yield more accurate predictions of the initial transverse velocity and wake skewness angle than existing models. We use these predictions as initial conditions in a wake model of the downstream evolution of the turbulent wake flow and compare predicted wake deflection with measurements from wind tunnel experiments.

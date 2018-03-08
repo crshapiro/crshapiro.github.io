@@ -99,9 +99,9 @@ a {
     }
 
     &:hover {
-        color: $text-color;
-        text-decoration: underline;
+        -webkit-text-stroke: 0.5px;
     }
+
 }
 
 
