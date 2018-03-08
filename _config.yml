@@ -27,3 +27,6 @@ markdown: kramdown
 kramdown:
   input: GFM
   hard_wrap: true
+
+# Google Analytics
+google_analytics: UA-115369337-1
