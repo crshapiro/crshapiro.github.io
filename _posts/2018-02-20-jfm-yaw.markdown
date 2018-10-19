@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Modelling yawed wind turbine wakes published in JFM Rapids."
+title:  "Modelling yawed wind turbine wakes published in JFM Rapids"
 date:   2018-02-20 12:00:00 -0500
 categories: papers
 ---

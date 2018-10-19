@@ -1,12 +1,16 @@
 ---
 layout: post
-title:  "Carl defends his PhD Thesis."
+title:  "Carl defends his PhD Thesis"
 date:   2018-09-17 12:00:00 -0500
 categories: defense
 ---
-Carl defended his PhD thesis titled "[Large-eddy simulations, wake models, and control: Power grid frequency support with wind farms](https://github.com/crshapiro/phd-thesis/raw/master/root.pdf)"
-* Primary readers and advisors: *Dennice F. Gayme, and Charles Meneveau*
-* Secondary reader: *Enrique Mallada*
+
+**[Large-eddy simulations, wake models, and control: Power grid frequency support with wind farms](https://github.com/crshapiro/phd-thesis/raw/master/root.pdf)**
+Primary readers and advisors: *Dennice F. Gayme and Charles Meneveau*
+Secondary reader: *Enrique Mallada*
+
+![carldefense](/img/defense.jpg)
+Despite rainy morning, I'm happy to have successfully defended my thesis. Thank you to everyone who helped me throughout the years!
 
 **Abstract**
 Improved integration of wind farms into frequency regulation services is vital for increasing renewable energy production while maintaining power system stability. In particular, wind farms of the future will need to be able to provide secondary frequency regulation by tracking a power reference signal controlled by the grid operator. Wind farm wake models, estimation methods, and control techniques are developed to improve wind farm secondary frequency regulation capabilities. Large-eddy simulations (LES), where the large scales are directly simulated, are combined with the actuator disk model, which represents a wind turbine as a drag disk, to simulate large wind farms. LES provides an ideal test bed for wake model validation and control algorithm development. A dynamic wind farm model is developed for time-varying changes in wind farm thrust and validated against LES of a wind farm at start up. A new yawed wind turbine theory is derived for the near-disk inviscid region of the flow and compared to numerical simulations. This model yields more accurate predictions of the initial transverse velocity and wake skewness angle than existing models. We use these predictions as initial conditions in an extended dynamic wake model for yawed turbines and compare predicted wake deflection with wind tunnel experiments. Sensing and estimation methods are developed to assimilate power measurements into the new dynamic wake model. Using LES, the dynamic wake model, and sensing and estimation methods, we propose the use of model-based receding horizon control to provide secondary frequency regulation for a power grid using thrust coefficient modulation.  We implement the controller in high-fidelity numerical simulations of a wind farm with 84 turbines and then test the controlled farm's ability to track a power reference signal. The results demonstrate the ability of the control algorithm to track two types of power reference signals used by a US independent system operator. Furthermore, the controller achieves accurate power tracking and reduces loss of revenue in the bulk power market by requiring less setpoint reduction (derate) than the power level control range. The control design is subsequently extended to include generator torque, blade pitch actuation, and the rotational inertia of the rotor.

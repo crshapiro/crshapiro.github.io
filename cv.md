@@ -9,12 +9,16 @@ B.S. Engineering (May 2010)
 
 **Johns Hopkins University**
 M.S.E Mechanical Engineering (May 2016)
-Ph.D. Candidate (Expected May 2018)
+Ph.D. Mechanical Engineering (September 2018)
 
 # Work Experience
+**Postdoctoral Researcher**
+*Johns Hopkins University, Baltimore, MD*
+*October 2018 -- Present*
+
 **Research Assistant**
 *Johns Hopkins University, Baltimore, MD*
-*September 2013 -- Present*
+*September 2013 -- September 2018*
 Working under Professors Charles Meneveau and Dennice Gayme on modeling and control of wind farms for grid support applications. Develop simple time-dependent wind-turbine wake models and model-based controllers for  power grid secondary frequency regulation.
 
 **Building Systems Engineer**
