@@ -10,6 +10,7 @@ B.S. Engineering (May 2010)
 **Johns Hopkins University**
 M.S.E Mechanical Engineering (May 2016)
 Ph.D. Mechanical Engineering (September 2018)
+Thesis: *[Large-eddy simulations, wake models, and control: Power grid frequency support with wind farms](https://jscholarship.library.jhu.edu/bitstream/handle/1774.2/60097/SHAPIRO-DISSERTATION-2018.pdf?sequence=1&isAllowed=y)*
 
 # Work Experience
 **Postdoctoral Researcher**
