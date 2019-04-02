@@ -56,7 +56,7 @@ Fluid Mechanics I, Johns Hopkins University, Fall 2014
 
 **Peer-Reviewed Conference Proceedings**
 
-1. **C.R. Shapiro**, J. Meyers, C. Meneveau, & D.F. Gayme. (2018, In Press). "Coordinated pitch and torque control of wind farms for power tracking." *American Control Conference.*
+1. **C.R. Shapiro**, J. Meyers, C. Meneveau, & D.F. Gayme. (2018). "[Coordinated pitch and torque control of wind farms for power tracking](https://doi.org/10.23919/ACC.2018.8431325)." *American Control Conference.* 688--694. Milwaukee, WI.
 1. **C.R. Shapiro**, J. Meyers, C. Meneveau, & D.F. Gayme. (2017). "[Dynamic wake modeling and state estimation for improved model-based receding horizon control of wind farms](https://doi.org/10.23919/ACC.2017.7963036)." *American Control Conference*, 709--2016. Seattle, WA.
 1. **C.R. Shapiro**, J. Meyers, C. Meneveau, & D.F. Gayme. (2016). "[Wind farms providing secondary frequency regulation: Evaluating the performance of model-based receding horizon control](https://doi.org/10.1088/1742-6596/753/5/052012)." *Journal of Physics: Conference Series*, 753(5), 052012. *The Science of Making Torque from Wind*. Munich, Germany.
 1. **C.R. Shapiro**. (2013). "Determining the thermal resistance of buried and/or encapsulated ducts." *ASHRAE Transactions*, 119(2), 1--8. DE-13-C004. ASHRAE Annual Conference. Denver, CO.
