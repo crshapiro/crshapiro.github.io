@@ -13,7 +13,7 @@ Ph.D. Mechanical Engineering (September 2018)
 Thesis: *[Large-eddy simulations, wake models, and control: Power grid frequency support with wind farms](https://jscholarship.library.jhu.edu/bitstream/handle/1774.2/60097/SHAPIRO-DISSERTATION-2018.pdf?sequence=1&isAllowed=y)*
 
 # Work Experience
-**Postdoctoral Researcher**
+**Postdoctoral Fellow**
 *Johns Hopkins University, Baltimore, MD*
 *October 2018 -- Present*
 
