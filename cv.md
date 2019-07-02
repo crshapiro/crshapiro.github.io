@@ -46,8 +46,12 @@ Fluid Mechanics I, Johns Hopkins University, Fall 2014
 
 # Publications
 
+**Under review**
+1. **C.R. Shapiro**, G. Starke, C. Meneveau, & Gayme, D. F.(2019). "A wake modeling paradigm for wind farm design and control."
+
 **Preprints**
 1. **C.R. Shapiro**, Gayme, D. F., & C. Meneveau (2019). "[Filtered actuator disks: Theory and application to wind turbine models in large eddy simulation](https://export.arxiv.org/abs/1901.10056)." *arXiv*:1901.10056.
+
 
 **Peer-Reviewed Journals**
 1. **C.R. Shapiro**, Gayme, D. F., & C. Meneveau. (2018). "[Modelling yawed wind turbine wakes: A lifting line approach](https://doi.org/10.1017/jfm.2018.75)." *Journal of Fluid Mechanics*, 841, R1.

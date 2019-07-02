@@ -14,11 +14,12 @@ We use a model-based receding horizon controller (also known as model predictive
 ![Control results](/img/enkf-rhc.png)
 *Total wind farm power output showing reference signal (<font color="red">&mdash;</font>), controlled wind farm (&mdash;), and uncontrolled wind farm (<font color="gray">&mdash;</font>).*
 
-**Wind farm wake models**
+**Wind farm wake modeling**
+Design and control studies rely on engineering models that can be easily computed and optimized because high-fidelity simulations are too computationally expensive to be practical. Our wake model is derived directly from the Reynolds-averaged mean momentum equations, yielding a one-dimensional partial differential equation that governs the velocity deficit in the wake \\(\delta u\\)
 
+\\[ \frac{\partial \delta u_i}{\partial t} + U_\infty \frac{\partial \delta u_i }{\partial x} = - w(x) \,\delta u_i(x,t) + \,S_i \, G(x). \\]
 
-\[ \left\langle u_d \right\rangle = \int \mathcal{R}(\mathbf{x}) , \tilde{\mathbf{u}}(\mathbf{x}) , d^3\mathbf{x}. \]
-
+This model provides the basis for the wind farm control algorithms described above.
 
 **Lifting line model of yawed wind turbines**
 Yawing of wind turbines has the potential to increase wind farm power production by deflecting wakes away from downstream turbines. A practical, yet accurate, aerodynamic theory can be found by treating the yawed wind turbine as a porous lifting surface. This approach yields accurate predictions for the magnitudes of the transverse velocity and the axial velocity deficit, the circulation of the shed counter-rotating vortex pair.
