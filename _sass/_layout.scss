@@ -50,22 +50,14 @@
     .page-link {
         color: $text-color;
         line-height: $base-line-height;
-
-        // Gaps between nav items, but not on the last one
-        &:not(:last-child) {
-            margin-right: 20px;
-        }
+        margin-right: 20px;
     }
 
     .page-link-active {
         color: $text-color;
         line-height: $base-line-height;
         -webkit-text-stroke: 0.5px;
-
-        // Gaps between nav items, but not on the last one
-        &:not(:last-child) {
-            margin-right: 20px;
-        }
+        margin-right: 20px;
     }
 
     @include media-query($on-palm) {
@@ -108,12 +100,16 @@
 
         .page-link {
             display: block;
-            padding: 5px 10px;
+            // padding-right: 2px 15px;
+            margin-right: 10px;
+            margin-left: 10px;
+        }
 
-            &:not(:last-child) {
-                margin-right: 0;
-            }
-            margin-left: 20px;
+        .page-link-active {
+            display: block;
+            // padding: 2px 5px;
+            margin-right: 10px;
+            margin-left: 10px;
         }
     }
 }
