@@ -46,15 +46,18 @@ Fluid Mechanics I, Johns Hopkins University, Fall 2014
 
 # Publications
 
+**Pre-prints**
+1. **C.R. Shapiro**, D.F. Gayme, & C. Meneveau (2019). "[Generation and decay of counter-rotating vortices downstream of yawed wind turbinesin the atmospheric boundary layer](https://arxiv.org/pdf/2005.11618.pdf)." *arXiv:2005.11618*.
+
 **Peer-Reviewed Journals**
-1. **C.R. Shapiro**, G. Starke, C. Meneveau, & Gayme, D. F. (2019). "[A wake modeling paradigm for wind farm design and control](https://doi.org/10.3390/en12152956)." *Energies*, 12(15), 2956.
-1. **C.R. Shapiro**, Gayme, D. F., & C. Meneveau (2019). "[Filtered actuator disks: Theory and application to wind turbine models in large eddy simulation](https://doi.org/10.1002/we.2376)." *Wind Energy*, 22(1), 1414--1420.
-1. **C.R. Shapiro**, Gayme, D. F., & C. Meneveau. (2018). "[Modelling yawed wind turbine wakes: A lifting line approach](https://doi.org/10.1017/jfm.2018.75)." *Journal of Fluid Mechanics*, 841, R1.
-1. **C.R. Shapiro**, J. Meyers, C. Meneveau, & Gayme, D. F. (2018). "[Wind farms providing secondary frequency regulation: Evaluating the performance of model-based receding horizon control](https://doi.org/10.5194/wes-3-11-2018)." *Wind Energy Science*, 3(1), 11--24.
-1. **C.R. Shapiro**, Bauweraerts, P., J. Meyers, C. Meneveau, & Gayme, D. F. (2017). "[Model-based receding horizon control of wind farms for secondary frequency regulation](https://doi.org/10.1002/we.2093)." *Wind Energy*, 20(17), 1261--1275.
+1. **C.R. Shapiro**, G. Starke, C. Meneveau, & D.F. Gayme. (2019). "[A wake modeling paradigm for wind farm design and control](https://doi.org/10.3390/en12152956)." *Energies*, 12(15), 2956.
+1. **C.R. Shapiro**, D.F. Gayme, & C. Meneveau. (2019). "[Filtered actuator disks: Theory and application to wind turbine models in large eddy simulation](https://doi.org/10.1002/we.2376)." *Wind Energy*, 22(1), 1414--1420.
+1. **C.R. Shapiro**, D.F. Gayme, & C. Meneveau. (2018). "[Modelling yawed wind turbine wakes: A lifting line approach](https://doi.org/10.1017/jfm.2018.75)." *Journal of Fluid Mechanics*, 841, R1.
+1. **C.R. Shapiro**, J. Meyers, C. Meneveau, & D.F. Gayme. (2018). "[Wind farms providing secondary frequency regulation: Evaluating the performance of model-based receding horizon control](https://doi.org/10.5194/wes-3-11-2018)." *Wind Energy Science*, 3(1), 11--24.
+1. **C.R. Shapiro**, P. Bauweraerts, J. Meyers, C. Meneveau, & D.F. Gayme. (2017). "[Model-based receding horizon control of wind farms for secondary frequency regulation](https://doi.org/10.1002/we.2093)." *Wind Energy*, 20(17), 1261--1275.
 
 **Peer-Reviewed Conference Proceedings**
-
+1. **C.R. Shapiro**, C. Ji, and D.F. Gayme (2020). "Real-time energy market arbitrage via aerodynamic energy storage in wind farms. "*American Control Conference.* Denver, CO.
 1. **C.R. Shapiro**, J. Meyers, C. Meneveau, & D.F. Gayme. (2018). "[Coordinated pitch and torque control of wind farms for power tracking](https://doi.org/10.23919/ACC.2018.8431325)." *American Control Conference.* 688--694. Milwaukee, WI.
 1. **C.R. Shapiro**, J. Meyers, C. Meneveau, & D.F. Gayme. (2017). "[Dynamic wake modeling and state estimation for improved model-based receding horizon control of wind farms](https://doi.org/10.23919/ACC.2017.7963036)." *American Control Conference*, 709--2016. Seattle, WA.
 1. **C.R. Shapiro**, J. Meyers, C. Meneveau, & D.F. Gayme. (2016). "[Wind farms providing secondary frequency regulation: Evaluating the performance of model-based receding horizon control](https://doi.org/10.1088/1742-6596/753/5/052012)." *Journal of Physics: Conference Series*, 753(5), 052012. *The Science of Making Torque from Wind*. Munich, Germany.
