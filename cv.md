@@ -16,6 +16,7 @@ Thesis: *[Large-eddy simulations, wake models, and control: Power grid frequency
 **AAAS Science & Technology Policy Fellow**
 *U.S. Department of Energy, Washington, DC*
 *September 2020 -- Present*
+Working in the Commercial Buildings Integration Program in the Building Technologies Office 
 
 **Postdoctoral Fellow**
 *Johns Hopkins University, Baltimore, MD*
