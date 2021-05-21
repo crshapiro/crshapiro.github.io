@@ -13,12 +13,10 @@ description: > # this means to ignore newlines until "baseurl:"
 url: "http://carl.shapiro.cc" # the base hostname & protocol for your site
 github_username: crshapiro
 scholar_username: V4POEocAAAAJ
-address: 323 Latrobe Hall
-address2: Johns Hopkins University
-address3: 3400 N. Charles St.
+linkedin_username: crshapiro
 city: Baltimore
 state: MD
-zip: 21218
+zip: 21201
 
 # Build settings
 markdown: kramdown

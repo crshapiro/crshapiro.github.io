@@ -2,7 +2,7 @@
 layout: post
 title:  "Actuator disk model correction published in Wind Energy"
 date:   2019-07-17 12:00:00 -0500
-categories: papers
+categories: Research
 ---
 
 Our paper "[Filtered actuator disks: Theory and application to wind turbine models in large eddy simulation](https://doi.org/10.1002/we.2376)" was published in the journal *Wind Energy*. By *Carl R. Shapiro, Dennice F. Gayme, and Charles Meneveau*

@@ -2,7 +2,7 @@
 layout: post
 title:  "Carl defends his PhD Thesis"
 date:   2018-09-17 12:00:00 -0500
-categories: defense
+categories: Research
 ---
 
 **[Large-eddy simulations, wake models, and control: Power grid frequency support with wind farms](https://github.com/crshapiro/phd-thesis/raw/master/root.pdf)**

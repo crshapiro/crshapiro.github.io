@@ -2,7 +2,7 @@
 layout: post
 title:  "Modelling yawed wind turbine wakes published in JFM Rapids"
 date:   2018-02-20 12:00:00 -0500
-categories: papers
+categories: Research
 ---
 Our paper "[Modelling yawed wind turbine wakes: A lifting line approach](https://doi.org/10.1017/jfm.2018.75)" was published in the Journal of Fluid Mechanics Rapids. By *Carl R. Shapiro, Dennice F. Gayme, and Charles Meneveau*
 

@@ -24,6 +24,7 @@
     }
 }
 
+
 .site-title-active {
     font-size: 26px;
     font-weight: 300;
@@ -304,7 +305,21 @@
     }
 }
 
+.align-left {
+  display: block;
+  margin-left: auto;
+  // margin-right: auto;
+  float: left;
+  margin-right: 1em;
+}
 
+.align-right {
+  display: block;
+  margin-left: 1em;
+  // margin-right: auto;
+  float: right;
+  margin-right: auto;
+}
 
 /**
  * cv content

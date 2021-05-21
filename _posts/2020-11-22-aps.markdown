@@ -2,7 +2,7 @@
 layout: post
 title:  "American Physical Society: Division of Fluid Dynamics Annual Meeting"
 date:   2020-11-20 12:00:00 -0500
-categories: conferences
+categories: Research
 ---
 <b>[Turbulent Decay of the Yawed Wind Turbine Counter-Rotating Vortex Pair](https://meetings.aps.org/Meeting/DFD20/Session/W05.10)</b>
 **Carl R. Shapiro**<sup>1,2</sup>, **Dennice F. Gayme**<sup>1</sup>, and **Charles Meneveau**<sup>1</sup>

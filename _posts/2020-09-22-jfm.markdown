@@ -2,7 +2,7 @@
 layout: post
 title:  "Decay of yawed wind turbine CVP paper published in JFM Rapids"
 date:   2020-09-22 12:00:00 -0500
-categories: papers
+categories: Research
 ---
 Our paper "[Generation and decay of counter-rotating vortices downstream of yawed wind turbines in the atmospheric boundary layer](https://doi.org/10.1017/jfm.2020.717)" was published in the Journal of Fluid Mechanics Rapids. By *Carl R. Shapiro, Dennice F. Gayme, and Charles Meneveau*
 

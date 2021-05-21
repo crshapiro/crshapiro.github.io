@@ -13,47 +13,39 @@ Ph.D. Mechanical Engineering (September 2018)
 Thesis: *[Large-eddy simulations, wake models, and control: Power grid frequency support with wind farms](https://jscholarship.library.jhu.edu/bitstream/handle/1774.2/60097/SHAPIRO-DISSERTATION-2018.pdf?sequence=1&isAllowed=y)*
 
 # Work Experience
-**AAAS Science & Technology Policy Fellow**
-*U.S. Department of Energy, Washington, DC*
-*September 2020 -- Present*
-Working in the Commercial Buildings Integration Program in the Building Technologies Office 
+**U.S. Department of Energy, Washington, DC**
+*AAAS Science & Technology Policy Fellow, September 2020 -- Present*
+* Provided evidenced-based recommendations, via engagement with internal stakeholders at DOE and the national labs and external stakeholders in other federal agencies, academia, and industry, for program development, research, and funding in a wide range of topic areas, including energy-health nexus, environmental justice, lifecycle carbon, and grid-interactive efficient buildings.
+* Supported federal staff in coordinating reviews for funding applications and merit reviews, developing scopes of work, providing guidance to PIs, and reviewing deliverables.
+*  Collaborated as a team with others at multiple offices in the Department of Energy and other federal agencies and national laboratories, to develop the Efficient and Healthy Schools initiative. Tracked  compliance with the requirements of the Energy Act of 2020.
 
-**Postdoctoral Fellow**
-*Johns Hopkins University, Baltimore, MD*
-*October 2018 -- August 2020*
-Worked under Professors Charles Meneveau and Dennice Gayme on vortex models for yawed wind turbines, thermal stratification in wind farms, and wind turbine price arbitrage potential using aerodynamic energy storage.
+**Johns Hopkins University, Baltimore, MD**
+*Postdoctoral Fellow, October 2018 -- August 2020*
+*Research Assistant, September 2013 -- September 2018*
+* Demonstrated the energy storage capabilities of wind farm flow fields and applied this storage mechanism to ancillary grid services using control engineering designs and fluid dynamics modeling and simulations.
+* Identified long-standing issue with self-consistency of yawed wind turbine models and derived a first-principles model that has become the de facto standard in the wind energy literature.
+* Created a seminar-style course that introduced students to the science, technology, and policy surrounding wind energy through active engagement with current academic research papers. The course allowed students a space to develop their skills in reading, understanding, and critiquing academic literature in new fields.
+* Managed research software development, through collaboration with senior colleagues and mentoring of new group members, of open-source simulation code.
 
-**Research Assistant**
-*Johns Hopkins University, Baltimore, MD*
-*September 2013 -- September 2018*
-Worked under Professors Charles Meneveau and Dennice Gayme on modeling and control of wind farms for grid support applications. Develop simple time-dependent wind-turbine wake models and model-based controllers for  power grid secondary frequency regulation.
 
-**Building Systems Engineer**
-*Steven Winter Associates, Norwalk, CT*
-*January 2011 -- July 2013*
+**Steven Winter Associates, Norwalk, CT**
+*Building Systems Engineer, January 2011 -- July 2013*
+* Evaluated residential energy systems, through analysis of field validation measurements, thermal modeling, and comparison to manufacturer data, that resulted in technical publications through the U.S. Department of Energy's Building America Program and recommendations for improving energy efficiency programs and engineering designs.
+* Distilled technical and installation recommendations into actionable educational outreach for building contractors, energy consultants, utilities, and homeowners to promote energy efficiency best practices in residential buildings.
 Conducted research funded by the Department of Energy on advanced energy technologies in residential buildings through the Building America program. Provided educational outreach to building contractors, energy consultants, utilities, and homeowners to promote energy efficiency best practices in residential buildings.
 
-**System Advisor Model Intern**
-*National Renewable Energy Laboratory, Golden, CO*
-*July 2010 -- November 2010*
-Developed and implemented algorithm to model backtracking for single-axis tracking photovoltaic systems in System Advisor Model. Implemented shading algorithms for PV systems and solar water heating performance models.
+**National Renewable Energy Laboratory, Golden, CO**
+*System Advisor Model Intern, July 2010 -- November 2010*
+* Developed and implemented algorithm to model backtracking for single-axis tracking photovoltaic systems in System Advisor Model. Implemented shading algorithms for PV systems and solar water heating performance models.
 
-**DAAD RISE Intern**
-*Fraunhofer Institute for Building Physics, Kassel, Germany*
-*May 2009 -- August 2009*
-Constructed a dynamic model of a district heating system for a neighborhood in Kassel. Ran simulations to assess the optimal design and determine the exergy and efficiency savings of using waste heat from the district heating system.
-
-# Teaching Experience
-**Teaching Assistant**
-Turbulence, Johns Hopkins University, Fall 2017
-Energy Systems Analysis, Johns Hopkins University, Spring 2016
-Fluid Mechanics Laboratory, Johns Hopkins University, Fall 2015
-Fluid Mechanics I, Johns Hopkins University, Fall 2014
+**Fraunhofer Institute for Building Physics, Kassel, Germany**
+*DAAD RISE Intern, May 2009 -- August 2009*
+* Determined the energy efficiency savings of using waste heat from a district heating system in Kassel by applying project management practices that resulted in work that was used for a peer-reviewed publication by my supervisor.
 
 # Publications
 
 **Peer-Reviewed Journals**
-1. **C.R. Shapiro**, D.F. Gayme, & C. Meneveau. (In Press). "[Generation and decay of counter-rotating vortices downstream of yawed wind turbinesin the atmospheric boundary layer](https://arxiv.org/pdf/2005.11618.pdf)." *Journal of Fluid Mechanics*.
+1. **C.R. Shapiro**, D.F. Gayme, & C. Meneveau. (2020). "[Generation and decay of counter-rotating vortices downstream of yawed wind turbinesin the atmospheric boundary layer](https://doi.org/10.1017/jfm.2020.717)." *Journal of Fluid Mechanics*, 903, R2.
 1. **C.R. Shapiro**, G. Starke, C. Meneveau, & D.F. Gayme. (2019). "[A wake modeling paradigm for wind farm design and control](https://doi.org/10.3390/en12152956)." *Energies*, 12(15), 2956.
 1. **C.R. Shapiro**, D.F. Gayme, & C. Meneveau. (2019). "[Filtered actuator disks: Theory and application to wind turbine models in large eddy simulation](https://doi.org/10.1002/we.2376)." *Wind Energy*, 22(1), 1414--1420.
 1. **C.R. Shapiro**, D.F. Gayme, & C. Meneveau. (2018). "[Modelling yawed wind turbine wakes: A lifting line approach](https://doi.org/10.1017/jfm.2018.75)." *Journal of Fluid Mechanics*, 841, R1.
